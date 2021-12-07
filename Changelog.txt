@@ -1,0 +1,64 @@
+v1.0
+Initial Design
+
+v1.1
+Redesign magazine pusher to inside rear plate
+Add gears
+Add magazine guides on rear plate
+Reinforce breech holders on rear plate
+Enlarge rear plate to accept gear axles
+
+v1.2
+Move dart pusher connection to below
+Adjust front plate to account for screw hole
+First attempt at gear sizing
+
+v1.3
+Switch reduction gear to belt system
+Replace all 3D printed axles to aluminium
+Gear cutouts to lighten them
+Lengthened Kathanha mag to be more accurate
+Added sleeve bushings to plate holes to reduce axle friction
+Updated mag pusher to be lower
+Breech now rotates the opposite direction due to belt
+Expand plates to allow them to be screwed into each other
+Add mounting points to connect cage to breech
+
+v1.4
+Huge rebuild, reduce breech to 1.5"
+Replaced guide rails with rods
+Redesigned front and rear plates
+
+v1.5
+Redesign mag pusher to rotating arm
+Abandoned due to gearing issues
+
+v1.6
+Reversion to original gear system
+Redesign magazine pusher
+Made handle 10% larger
+Switch to Talon magazines
+Remove washer bearings for gear sleeves
+Skeletonize gears
+
+v1.7
+Address tolerance changes from actual hardware
+Garbage collected some unused CAD files in directory
+Completely redesign cage mounts
+Switch cage to 43mm
+Adopt worm gear system
+Redesigned spring mounts and locations
+
+v1.8
+Added guides on rear plate for magazine
+Moved shell pieces into version folder
+Redesign fire control area, twice
+Complete rebuild of shell
+
+v1.9
+Further work on shell
+Larger transmission gears so less skipping
+Add nubbin to mag pusher to better seat dart
+Use guide dowels to align back stock to midsection
+Angle some hidden parts to remove the need for tall supports
+Design mag catch mechanism
